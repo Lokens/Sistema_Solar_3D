@@ -4,10 +4,9 @@ Sistema sola 3D em three.js
 
 #RUN
 
-```npm i 
-npx vite```
+npm i 
+npx vite
 
 
-
-CONTROLS
+##CONTROLS
 Mouse for vision
